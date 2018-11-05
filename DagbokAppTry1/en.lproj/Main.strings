@@ -1,0 +1,51 @@
+
+/* Class = "UILabel"; text = "CellTitle!!!"; ObjectID = "VC7-bo-iTp"; */
+"VC7-bo-iTp.text" = "CellTitle!!!";
+
+/* Class = "UIButton"; normalTitle = "Cose"; ObjectID = "WDY-Iu-YmA"; */
+"WDY-Iu-YmA.normalTitle" = "Cose";
+
+/* Class = "UITextField"; placeholder = "Write Note........."; ObjectID = "ZYf-Nf-X2H"; */
+"ZYf-Nf-X2H.placeholder" = "Write Note.........";
+
+/* Class = "UILabel"; text = "Date!!!"; ObjectID = "cwK-pg-rLJ"; */
+"cwK-pg-rLJ.text" = "Date!!!";
+
+/* Class = "UITextField"; placeholder = "Write note title:...."; ObjectID = "drd-Rs-3oD"; */
+"drd-Rs-3oD.placeholder" = "Write note title:....";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "e3a-tI-N1p"; */
+"e3a-tI-N1p.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fuF-Ec-tgS"; */
+"fuF-Ec-tgS.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Save current Note"; ObjectID = "j4O-5Q-Cu9"; */
+"j4O-5Q-Cu9.title" = "Save current Note";
+
+/* Class = "UINavigationItem"; title = "Notes List!"; ObjectID = "jzY-Tp-gZA"; */
+"jzY-Tp-gZA.title" = "Notes List!";
+
+/* Class = "UIButton"; normalTitle = "Show address in Map"; ObjectID = "khV-ci-C5J"; */
+"khV-ci-C5J.normalTitle" = "Show address in Map";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "mcX-QW-UiR"; */
+"mcX-QW-UiR.normalTitle" = "OK";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "n9d-JH-xeb"; */
+"n9d-JH-xeb.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Your saved note detail."; ObjectID = "pJB-Q4-D7a"; */
+"pJB-Q4-D7a.text" = "Your saved note detail.";
+
+/* Class = "UINavigationItem"; title = "Your note detail"; ObjectID = "qaV-A4-lug"; */
+"qaV-A4-lug.title" = "Your note detail";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "t6j-eN-NlW"; */
+"t6j-eN-NlW.normalTitle" = "+";
+
+/* Class = "UIBarButtonItem"; title = "Home"; ObjectID = "vm9-NU-y8T"; */
+"vm9-NU-y8T.title" = "Home";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "vyY-e8-3es"; */
+"vyY-e8-3es.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";

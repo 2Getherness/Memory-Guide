@@ -1,0 +1,492 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		C50486942020EA7200AD5907 /* notesTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C50486932020EA7200AD5907 /* notesTableViewCell.swift */; };
+		C505B63F201B6D75004E2284 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C505B63E201B6D75004E2284 /* AppDelegate.swift */; };
+		C505B641201B6D75004E2284 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C505B640201B6D75004E2284 /* ViewController.swift */; };
+		C505B644201B6D75004E2284 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C505B642201B6D75004E2284 /* Main.storyboard */; };
+		C505B646201B6D75004E2284 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C505B645201B6D75004E2284 /* Assets.xcassets */; };
+		C505B649201B6D75004E2284 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C505B647201B6D75004E2284 /* LaunchScreen.storyboard */; };
+		C5073F0F20345868006353BE /* UploadDataToDB.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5073F0E20345868006353BE /* UploadDataToDB.swift */; };
+		C5073F1120346364006353BE /* Camera.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5073F1020346364006353BE /* Camera.swift */; };
+		C5073F142034FB7A006353BE /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5073F132034FB7A006353BE /* File.swift */; };
+		C508E934202358F100683745 /* Location.swift in Sources */ = {isa = PBXBuildFile; fileRef = C508E933202358F100683745 /* Location.swift */; };
+		C5A0C965201FCBF900D5F6C3 /* AddFormController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5A0C964201FCBF900D5F6C3 /* AddFormController.swift */; };
+		C5A0C96B201FD38F00D5F6C3 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C5A0C96A201FD38F00D5F6C3 /* GoogleService-Info.plist */; };
+		C5AE3A7120226AE1007A6B84 /* FirebaseStorage.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5AE3A7020226AE1007A6B84 /* FirebaseStorage.swift */; };
+		C5C9039520338DD000B34491 /* popUpMapVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5C9039420338DD000B34491 /* popUpMapVC.swift */; };
+		C5FC2972202A641F00E03827 /* DetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5FC2971202A641F00E03827 /* DetailVC.swift */; };
+		DF5C7E10F8417AF49EC631E7 /* Pods_DagbokAppTry1.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 702DC017450564F5F9F66C94 /* Pods_DagbokAppTry1.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		082581092F3823F7F74D2701 /* Pods-DagbokAppTry1.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DagbokAppTry1.debug.xcconfig"; path = "Pods/Target Support Files/Pods-DagbokAppTry1/Pods-DagbokAppTry1.debug.xcconfig"; sourceTree = "<group>"; };
+		702DC017450564F5F9F66C94 /* Pods_DagbokAppTry1.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DagbokAppTry1.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9A2C9CCAD9BDCD98C8236EDB /* Pods-DagbokAppTry1.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DagbokAppTry1.release.xcconfig"; path = "Pods/Target Support Files/Pods-DagbokAppTry1/Pods-DagbokAppTry1.release.xcconfig"; sourceTree = "<group>"; };
+		C50486932020EA7200AD5907 /* notesTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = notesTableViewCell.swift; sourceTree = "<group>"; };
+		C505B63B201B6D75004E2284 /* DagbokAppTry1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DagbokAppTry1.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C505B63E201B6D75004E2284 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		C505B640201B6D75004E2284 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		C505B643201B6D75004E2284 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		C505B645201B6D75004E2284 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C505B648201B6D75004E2284 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		C505B64A201B6D75004E2284 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C5073F0E20345868006353BE /* UploadDataToDB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UploadDataToDB.swift; sourceTree = "<group>"; };
+		C5073F1020346364006353BE /* Camera.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Camera.swift; sourceTree = "<group>"; };
+		C5073F132034FB7A006353BE /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
+		C508E933202358F100683745 /* Location.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Location.swift; sourceTree = "<group>"; };
+		C56F504820364ECA00E852E1 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/Main.strings; sourceTree = "<group>"; };
+		C56F504920364ECA00E852E1 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		C56F504B20366C0E00E852E1 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
+		C5A0C964201FCBF900D5F6C3 /* AddFormController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddFormController.swift; sourceTree = "<group>"; };
+		C5A0C96A201FD38F00D5F6C3 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		C5AE3A7020226AE1007A6B84 /* FirebaseStorage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirebaseStorage.swift; sourceTree = "<group>"; };
+		C5C9039420338DD000B34491 /* popUpMapVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = popUpMapVC.swift; sourceTree = "<group>"; };
+		C5FC2971202A641F00E03827 /* DetailVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailVC.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C505B638201B6D75004E2284 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DF5C7E10F8417AF49EC631E7 /* Pods_DagbokAppTry1.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		9DC3AF71087B346BEAB76C6A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				702DC017450564F5F9F66C94 /* Pods_DagbokAppTry1.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		C505B632201B6D75004E2284 = {
+			isa = PBXGroup;
+			children = (
+				C505B63D201B6D75004E2284 /* DagbokAppTry1 */,
+				C505B63C201B6D75004E2284 /* Products */,
+				CDC36D7393DFED790D83F649 /* Pods */,
+				9DC3AF71087B346BEAB76C6A /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		C505B63C201B6D75004E2284 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C505B63B201B6D75004E2284 /* DagbokAppTry1.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C505B63D201B6D75004E2284 /* DagbokAppTry1 */ = {
+			isa = PBXGroup;
+			children = (
+				C514C37C2030E6A9009B5CC8 /* Services */,
+				C5AE3A6D2022594D007A6B84 /* controller */,
+				C5073F1220347F63006353BE /* View */,
+				C505B642201B6D75004E2284 /* Main.storyboard */,
+				C505B63E201B6D75004E2284 /* AppDelegate.swift */,
+				C505B645201B6D75004E2284 /* Assets.xcassets */,
+				C505B647201B6D75004E2284 /* LaunchScreen.storyboard */,
+				C505B64A201B6D75004E2284 /* Info.plist */,
+				C5A0C96A201FD38F00D5F6C3 /* GoogleService-Info.plist */,
+				C5AE3A7020226AE1007A6B84 /* FirebaseStorage.swift */,
+			);
+			path = DagbokAppTry1;
+			sourceTree = "<group>";
+		};
+		C5073F1220347F63006353BE /* View */ = {
+			isa = PBXGroup;
+			children = (
+				C5C9039420338DD000B34491 /* popUpMapVC.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		C514C37C2030E6A9009B5CC8 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				C508E933202358F100683745 /* Location.swift */,
+				C5073F0E20345868006353BE /* UploadDataToDB.swift */,
+				C5073F1020346364006353BE /* Camera.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		C5AE3A6D2022594D007A6B84 /* controller */ = {
+			isa = PBXGroup;
+			children = (
+				C505B640201B6D75004E2284 /* ViewController.swift */,
+				C50486932020EA7200AD5907 /* notesTableViewCell.swift */,
+				C5A0C964201FCBF900D5F6C3 /* AddFormController.swift */,
+				C5FC2971202A641F00E03827 /* DetailVC.swift */,
+				C5073F132034FB7A006353BE /* File.swift */,
+			);
+			path = controller;
+			sourceTree = "<group>";
+		};
+		CDC36D7393DFED790D83F649 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				082581092F3823F7F74D2701 /* Pods-DagbokAppTry1.debug.xcconfig */,
+				9A2C9CCAD9BDCD98C8236EDB /* Pods-DagbokAppTry1.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C505B63A201B6D75004E2284 /* DagbokAppTry1 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C505B64D201B6D75004E2284 /* Build configuration list for PBXNativeTarget "DagbokAppTry1" */;
+			buildPhases = (
+				2885662FFCC7A56716695D01 /* [CP] Check Pods Manifest.lock */,
+				C505B637201B6D75004E2284 /* Sources */,
+				C505B638201B6D75004E2284 /* Frameworks */,
+				C505B639201B6D75004E2284 /* Resources */,
+				264491266DAEF1F19FE9EB71 /* [CP] Embed Pods Frameworks */,
+				6A347F75C4507105D6307C88 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = DagbokAppTry1;
+			productName = DagbokAppTry1;
+			productReference = C505B63B201B6D75004E2284 /* DagbokAppTry1.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C505B633201B6D75004E2284 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0920;
+				LastUpgradeCheck = 1010;
+				ORGANIZATIONNAME = "imran khan";
+				TargetAttributes = {
+					C505B63A201B6D75004E2284 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = C505B636201B6D75004E2284 /* Build configuration list for PBXProject "DagbokAppTry1" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = C505B632201B6D75004E2284;
+			productRefGroup = C505B63C201B6D75004E2284 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C505B63A201B6D75004E2284 /* DagbokAppTry1 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C505B639201B6D75004E2284 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C505B649201B6D75004E2284 /* LaunchScreen.storyboard in Resources */,
+				C5A0C96B201FD38F00D5F6C3 /* GoogleService-Info.plist in Resources */,
+				C505B646201B6D75004E2284 /* Assets.xcassets in Resources */,
+				C505B644201B6D75004E2284 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		264491266DAEF1F19FE9EB71 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-DagbokAppTry1/Pods-DagbokAppTry1-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/GTMSessionFetcher/GTMSessionFetcher.framework",
+				"${BUILT_PRODUCTS_DIR}/GoogleToolboxForMac/GoogleToolboxForMac.framework",
+				"${BUILT_PRODUCTS_DIR}/leveldb-library/leveldb.framework",
+				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GTMSessionFetcher.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleToolboxForMac.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/leveldb.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-DagbokAppTry1/Pods-DagbokAppTry1-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		2885662FFCC7A56716695D01 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-DagbokAppTry1-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		6A347F75C4507105D6307C88 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-DagbokAppTry1/Pods-DagbokAppTry1-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C505B637201B6D75004E2284 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C5073F1120346364006353BE /* Camera.swift in Sources */,
+				C5FC2972202A641F00E03827 /* DetailVC.swift in Sources */,
+				C508E934202358F100683745 /* Location.swift in Sources */,
+				C505B641201B6D75004E2284 /* ViewController.swift in Sources */,
+				C505B63F201B6D75004E2284 /* AppDelegate.swift in Sources */,
+				C5C9039520338DD000B34491 /* popUpMapVC.swift in Sources */,
+				C5A0C965201FCBF900D5F6C3 /* AddFormController.swift in Sources */,
+				C5AE3A7120226AE1007A6B84 /* FirebaseStorage.swift in Sources */,
+				C50486942020EA7200AD5907 /* notesTableViewCell.swift in Sources */,
+				C5073F142034FB7A006353BE /* File.swift in Sources */,
+				C5073F0F20345868006353BE /* UploadDataToDB.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		C505B642201B6D75004E2284 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C505B643201B6D75004E2284 /* Base */,
+				C56F504820364ECA00E852E1 /* sv */,
+				C56F504B20366C0E00E852E1 /* en */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		C505B647201B6D75004E2284 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C505B648201B6D75004E2284 /* Base */,
+				C56F504920364ECA00E852E1 /* sv */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C505B64B201B6D75004E2284 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		C505B64C201B6D75004E2284 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C505B64E201B6D75004E2284 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 082581092F3823F7F74D2701 /* Pods-DagbokAppTry1.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 4RZ58638GJ;
+				INFOPLIST_FILE = DagbokAppTry1/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.DagbokAppTry1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		C505B64F201B6D75004E2284 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9A2C9CCAD9BDCD98C8236EDB /* Pods-DagbokAppTry1.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 4RZ58638GJ;
+				INFOPLIST_FILE = DagbokAppTry1/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.DagbokAppTry1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C505B636201B6D75004E2284 /* Build configuration list for PBXProject "DagbokAppTry1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C505B64B201B6D75004E2284 /* Debug */,
+				C505B64C201B6D75004E2284 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C505B64D201B6D75004E2284 /* Build configuration list for PBXNativeTarget "DagbokAppTry1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C505B64E201B6D75004E2284 /* Debug */,
+				C505B64F201B6D75004E2284 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C505B633201B6D75004E2284 /* Project object */;
+}

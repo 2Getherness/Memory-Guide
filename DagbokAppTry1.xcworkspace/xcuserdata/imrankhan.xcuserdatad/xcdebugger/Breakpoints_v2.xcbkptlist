@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DagbokAppTry1/controller/DetailVC.swift"
+            timestampString = "563142858.832884"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "DetailVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DagbokAppTry1.DetailVC.noteID.getter : Swift.String"
+                  moduleName = "DagbokAppTry1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imrankhan/Desktop/Mydocuments/DagbokAppTry1/DagbokAppTry1/controller/DetailVC.swift"
+                  timestampString = "539724542.909085"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DagbokAppTry1.DetailVC.noteID.setter : Swift.String"
+                  moduleName = "DagbokAppTry1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imrankhan/Desktop/Mydocuments/DagbokAppTry1/DagbokAppTry1/controller/DetailVC.swift"
+                  timestampString = "539724542.91194"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DagbokAppTry1.DetailVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; DagbokAppTry1.DetailVC"
+                  moduleName = "DagbokAppTry1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imrankhan/Desktop/Mydocuments/DagbokAppTry1/DagbokAppTry1/controller/DetailVC.swift"
+                  timestampString = "539724542.914575"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "628">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DagbokAppTry1.DetailVC.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;DagbokAppTry1.DetailVC&gt;"
+                  moduleName = "DagbokAppTry1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imrankhan/Desktop/Mydocuments/DagbokAppTry1/DagbokAppTry1/controller/DetailVC.swift"
+                  timestampString = "539724542.91772"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "584">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DagbokAppTry1/controller/ViewController.swift"
+            timestampString = "563142858.833472"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "Notes"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "variable initialization expression of DagbokAppTry1.ViewController.Notes.imageUrl : Swift.String"
+                  moduleName = "DagbokAppTry1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imrankhan/Desktop/Mydocuments/DagbokAppTry1/DagbokAppTry1/controller/ViewController.swift"
+                  timestampString = "540002383.10402"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DagbokAppTry1.ViewController.Notes.imageUrl.getter : Swift.String"
+                  moduleName = "DagbokAppTry1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imrankhan/Desktop/Mydocuments/DagbokAppTry1/DagbokAppTry1/controller/ViewController.swift"
+                  timestampString = "540002383.106619"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DagbokAppTry1.ViewController.Notes.imageUrl.setter : Swift.String"
+                  moduleName = "DagbokAppTry1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imrankhan/Desktop/Mydocuments/DagbokAppTry1/DagbokAppTry1/controller/ViewController.swift"
+                  timestampString = "540002383.109604"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DagbokAppTry1.ViewController.Notes.init() -&gt; DagbokAppTry1.ViewController.Notes"
+                  moduleName = "DagbokAppTry1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imrankhan/Desktop/Mydocuments/DagbokAppTry1/DagbokAppTry1/controller/ViewController.swift"
+                  timestampString = "540002383.112604"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "220">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DagbokAppTry1/controller/DetailVC.swift"
+            timestampString = "563142858.83386"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "DetailVC"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DagbokAppTry1/controller/DetailVC.swift"
+            timestampString = "563142858.834136"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "DetailVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DagbokAppTry1.DetailVC.noteID.getter : Swift.String"
+                  moduleName = "DagbokAppTry1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imrankhan/Desktop/Mydocuments/DagbokAppTry1/DagbokAppTry1/controller/DetailVC.swift"
+                  timestampString = "540258493.67064"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DagbokAppTry1.DetailVC.noteID.setter : Swift.String"
+                  moduleName = "DagbokAppTry1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imrankhan/Desktop/Mydocuments/DagbokAppTry1/DagbokAppTry1/controller/DetailVC.swift"
+                  timestampString = "540258493.673622"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DagbokAppTry1.DetailVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; DagbokAppTry1.DetailVC"
+                  moduleName = "DagbokAppTry1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imrankhan/Desktop/Mydocuments/DagbokAppTry1/DagbokAppTry1/controller/DetailVC.swift"
+                  timestampString = "540258493.676515"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "640">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DagbokAppTry1.DetailVC.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;DagbokAppTry1.DetailVC&gt;"
+                  moduleName = "DagbokAppTry1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imrankhan/Desktop/Mydocuments/DagbokAppTry1/DagbokAppTry1/controller/DetailVC.swift"
+                  timestampString = "540258493.679598"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "596">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DagbokAppTry1/controller/DetailVC.swift"
+            timestampString = "563142858.834397"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "141"
+            endingLineNumber = "141"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DagbokAppTry1/controller/popUpMapVC.swift"
+            timestampString = "540270931.989835"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "popUpMapVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DagbokAppTry1.popUpMapVC.addressID.getter : Swift.String"
+                  moduleName = "DagbokAppTry1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imrankhan/Desktop/Mydocuments/DagbokAppTry1/DagbokAppTry1/controller/popUpMapVC.swift"
+                  timestampString = "540263304.786997"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DagbokAppTry1.popUpMapVC.addressID.setter : Swift.String"
+                  moduleName = "DagbokAppTry1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imrankhan/Desktop/Mydocuments/DagbokAppTry1/DagbokAppTry1/controller/popUpMapVC.swift"
+                  timestampString = "540263304.791008"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DagbokAppTry1.popUpMapVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; DagbokAppTry1.popUpMapVC"
+                  moduleName = "DagbokAppTry1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imrankhan/Desktop/Mydocuments/DagbokAppTry1/DagbokAppTry1/controller/popUpMapVC.swift"
+                  timestampString = "540263304.7948591"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "364">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DagbokAppTry1.popUpMapVC.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;DagbokAppTry1.popUpMapVC&gt;"
+                  moduleName = "DagbokAppTry1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imrankhan/Desktop/Mydocuments/DagbokAppTry1/DagbokAppTry1/controller/popUpMapVC.swift"
+                  timestampString = "540263304.798142"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "320">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DagbokAppTry1/controller/ViewController.swift"
+            timestampString = "563142858.834807"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DagbokAppTry1/controller/ViewController.swift"
+            timestampString = "563142858.8350869"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DagbokAppTry1.ViewController.searchedString.getter : Swift.Array&lt;DagbokAppTry1.ViewController.Notes&gt;"
+                  moduleName = "DagbokAppTry1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imrankhan/Desktop/Mydocuments/DagbokAppTry1/DagbokAppTry1/controller/ViewController.swift"
+                  timestampString = "540309541.344741"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DagbokAppTry1.ViewController.searchedString.setter : Swift.Array&lt;DagbokAppTry1.ViewController.Notes&gt;"
+                  moduleName = "DagbokAppTry1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imrankhan/Desktop/Mydocuments/DagbokAppTry1/DagbokAppTry1/controller/ViewController.swift"
+                  timestampString = "540309541.34863"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DagbokAppTry1.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; DagbokAppTry1.ViewController"
+                  moduleName = "DagbokAppTry1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imrankhan/Desktop/Mydocuments/DagbokAppTry1/DagbokAppTry1/controller/ViewController.swift"
+                  timestampString = "540309541.356197"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "578">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DagbokAppTry1.ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;DagbokAppTry1.ViewController&gt;"
+                  moduleName = "DagbokAppTry1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imrankhan/Desktop/Mydocuments/DagbokAppTry1/DagbokAppTry1/controller/ViewController.swift"
+                  timestampString = "540309541.360214"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "491">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DagbokAppTry1/controller/ViewController.swift"
+            timestampString = "563142858.835348"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DagbokAppTry1/controller/ViewController.swift"
+            timestampString = "563142858.835604"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "Notes"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DagbokAppTry1.ViewController.notesArray.getter : Swift.Array&lt;DagbokAppTry1.ViewController.Notes&gt;"
+                  moduleName = "DagbokAppTry1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imrankhan/Desktop/Mydocuments/DagbokAppTry1/DagbokAppTry1/controller/ViewController.swift"
+                  timestampString = "540309541.379564"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DagbokAppTry1.ViewController.notesArray.setter : Swift.Array&lt;DagbokAppTry1.ViewController.Notes&gt;"
+                  moduleName = "DagbokAppTry1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imrankhan/Desktop/Mydocuments/DagbokAppTry1/DagbokAppTry1/controller/ViewController.swift"
+                  timestampString = "540309541.382555"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DagbokAppTry1.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; DagbokAppTry1.ViewController"
+                  moduleName = "DagbokAppTry1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imrankhan/Desktop/Mydocuments/DagbokAppTry1/DagbokAppTry1/controller/ViewController.swift"
+                  timestampString = "540309541.385344"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "768">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DagbokAppTry1.ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;DagbokAppTry1.ViewController&gt;"
+                  moduleName = "DagbokAppTry1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imrankhan/Desktop/Mydocuments/DagbokAppTry1/DagbokAppTry1/controller/ViewController.swift"
+                  timestampString = "540309541.388842"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "673">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DagbokAppTry1/controller/ViewController.swift"
+            timestampString = "563142858.835865"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DagbokAppTry1/controller/File.swift"
+            timestampString = "540357939.877442"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "tableView(_:commit:forRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DagbokAppTry1/controller/DetailVC.swift"
+            timestampString = "563142858.836187"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "downloadImage(path:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DagbokAppTry1/controller/DetailVC.swift"
+            timestampString = "563142858.8364739"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "downloadImage(path:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DagbokAppTry1/controller/DetailVC.swift"
+            timestampString = "563142858.836735"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "updateFromFirebase()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

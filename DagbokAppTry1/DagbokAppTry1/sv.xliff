@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="DagbokAppTry1/Base.lproj/LaunchScreen.storyboard" source-language="en" datatype="plaintext" target-language="sv">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2" build-num="9C40b"/>
+    </header>
+    <body/>
+  </file>
+  <file original="DagbokAppTry1/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="sv">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2" build-num="9C40b"/>
+    </header>
+    <body>
+      <trans-unit id="VC7-bo-iTp.text">
+        <source>CellTitle!!!</source>
+        <target>CellTitle!!!</target>
+        <note>Class = "UILabel"; text = "CellTitle!!!"; ObjectID = "VC7-bo-iTp";</note>
+      </trans-unit>
+      <trans-unit id="WDY-Iu-YmA.normalTitle">
+        <source>Close</source>
+        <target>Stäng</target>
+        <note>Class = "UIButton"; normalTitle = "Cose"; ObjectID = "WDY-Iu-YmA";</note>
+      </trans-unit>
+      <trans-unit id="ZYf-Nf-X2H.placeholder">
+        <source>Write Note.........</source>
+        <target>Skrev din anteckning</target>
+        <note>Class = "UITextField"; placeholder = "Write Note........."; ObjectID = "ZYf-Nf-X2H";</note>
+      </trans-unit>
+      <trans-unit id="cwK-pg-rLJ.text">
+        <source>Date!!!</source>
+        <target>Datum</target>
+        <note>Class = "UILabel"; text = "Date!!!"; ObjectID = "cwK-pg-rLJ";</note>
+      </trans-unit>
+      <trans-unit id="drd-Rs-3oD.placeholder">
+        <source>Write note title:....</source>
+        <target>Srev anteckning titln</target>
+        <note>Class = "UITextField"; placeholder = "Write note title:...."; ObjectID = "drd-Rs-3oD";</note>
+      </trans-unit>
+      <trans-unit id="e3a-tI-N1p.normalTitle">
+        <source>+</source>
+        <target>+</target>
+        <note>Class = "UIButton"; normalTitle = "+"; ObjectID = "e3a-tI-N1p";</note>
+      </trans-unit>
+      <trans-unit id="fuF-Ec-tgS.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "fuF-Ec-tgS";</note>
+      </trans-unit>
+      <trans-unit id="j4O-5Q-Cu9.title">
+        <source>Save current Note</source>
+        <target>Spara den nuvarande anteckning</target>
+        <note>Class = "UINavigationItem"; title = "Save current Note"; ObjectID = "j4O-5Q-Cu9";</note>
+      </trans-unit>
+      <trans-unit id="jzY-Tp-gZA.title">
+        <source>Notes List!</source>
+        <target>Anteckningslista!</target>
+        <note>Class = "UINavigationItem"; title = "Notes List!"; ObjectID = "jzY-Tp-gZA";</note>
+      </trans-unit>
+      <trans-unit id="khV-ci-C5J.normalTitle">
+        <source>Show address in Map</source>
+        <target>Visa adress i mappen</target>
+        <note>Class = "UIButton"; normalTitle = "Show address in Map"; ObjectID = "khV-ci-C5J";</note>
+      </trans-unit>
+      <trans-unit id="mcX-QW-UiR.normalTitle">
+        <source>OK</source>
+        <target>OK</target>
+        <note>Class = "UIButton"; normalTitle = "OK"; ObjectID = "mcX-QW-UiR";</note>
+      </trans-unit>
+      <trans-unit id="n9d-JH-xeb.text">
+        <source>Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</source>
+        <target>Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</target>
+        <note>Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "n9d-JH-xeb";</note>
+      </trans-unit>
+      <trans-unit id="pJB-Q4-D7a.text">
+        <source>Your saved note detail.</source>
+        <target>Dina sparade anteckningar.</target>
+        <note>Class = "UILabel"; text = "Your saved note detail."; ObjectID = "pJB-Q4-D7a";</note>
+      </trans-unit>
+      <trans-unit id="qaV-A4-lug.title">
+        <source>Your note detail</source>
+        <target>Anteckningar detalj</target>
+        <note>Class = "UINavigationItem"; title = "Your note detail"; ObjectID = "qaV-A4-lug";</note>
+      </trans-unit>
+      <trans-unit id="t6j-eN-NlW.normalTitle">
+        <source>+</source>
+        <target>+</target>
+        <note>Class = "UIButton"; normalTitle = "+"; ObjectID = "t6j-eN-NlW";</note>
+      </trans-unit>
+      <trans-unit id="vm9-NU-y8T.title">
+        <source>Home</source>
+        <target>Hem</target>
+        <note>Class = "UIBarButtonItem"; title = "Home"; ObjectID = "vm9-NU-y8T";</note>
+      </trans-unit>
+      <trans-unit id="vyY-e8-3es.text">
+        <source>Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</source>
+        <target>Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</target>
+        <note>Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "vyY-e8-3es";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="DagbokAppTry1/Info.plist" source-language="en" datatype="plaintext" target-language="sv">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2" build-num="9C40b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="NSCameraUsageDescription">
+        <source>Camera Permission</source>
+      </trans-unit>
+      <trans-unit id="NSLocationUsageDescription">
+        <source/>
+      </trans-unit>
+      <trans-unit id="NSLocationWhenInUseUsageDescription">
+        <source>Location Permission</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
