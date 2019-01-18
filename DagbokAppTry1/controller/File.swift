@@ -24,7 +24,7 @@ extension ViewController {
                     print("Error while deleting image")
                 }
             })
-            Database.database().reference().child("Posts").child(currNote).removeValue { Error,error   in
+            Database.database().reference().child("Posts").child(currNote).removeValue { (Error, error )  in
                 
                 if error != nil {
                     print("****Error while deleting Post****")

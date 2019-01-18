@@ -3,7 +3,7 @@
 "VC7-bo-iTp.text" = "CellTitle!!!";
 
 /* Class = "UIButton"; normalTitle = "Cose"; ObjectID = "WDY-Iu-YmA"; */
-"WDY-Iu-YmA.normalTitle" = "Stäng";
+//"WDY-Iu-YmA.normalTitle" = "Stäng";
 
 /* Class = "UITextField"; placeholder = "Write Note........."; ObjectID = "ZYf-Nf-X2H"; */
 "ZYf-Nf-X2H.placeholder" = "Skrev din anteckning";
@@ -24,13 +24,13 @@
 "j4O-5Q-Cu9.title" = "Spara dina nuvaranda anteckning";
 
 /* Class = "UINavigationItem"; title = "Notes List!"; ObjectID = "jzY-Tp-gZA"; */
-"jzY-Tp-gZA.title" = "Anteckningar lista!";
+"jzY-Tp-gZA.title" = "Anteckningar lista";
 
 /* Class = "UIButton"; normalTitle = "Show address in Map"; ObjectID = "khV-ci-C5J"; */
 "khV-ci-C5J.normalTitle" = "Visa adress i Mapp";
 
 /* Class = "UIButton"; normalTitle = "OK"; ObjectID = "mcX-QW-UiR"; */
-"mcX-QW-UiR.normalTitle" = "OK";
+"mcX-QW-UiR.normalTitle" = "Spara";
 
 /* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "n9d-JH-xeb"; */
 "n9d-JH-xeb.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
